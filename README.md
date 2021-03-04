@@ -1,2 +1,3 @@
 # Super-Resolution
-深入、持续精进
+Just do it!
+分享、交流、深入、持续精进
